@@ -1,66 +1,38 @@
 <img src="https://github.com/G2440/g2440/blob/main/assets/Gitreadme.gif">
 
-<p>
-    I'm a final year undergraduate from <a href="http://www.msit.in/"><b>Maharaja Surajmal Institute of Technology</b></a>. <br><br>
-    NODEJS/PHP/DJANGO DEVELOPER   
-</p>
 
-
-<br>
+### Final Year Undergraduate student from  [Maharaja Surajmal Institute of Technology](https://www.msit.in/)
 
 
   <a href="https://www.linkedin.com/in/gaurav2440/">
-    <img align="left" alt="g2440 | Linkedin" width="24px" src="https://github.com/G2440/g2440/blob/main/assets/linkedin.svg" />
+    <img align="left" alt="g2440 | Linkedin" width="30px" src="https://github.com/G2440/g2440/blob/main/assets/linkedin.svg" />
   </a>
-  <a href="https://twitter.com/g2440">
-    <img align="left" alt="g2440 | Twitter" width="26px" src="https://github.com/G2440/g2440/blob/main/assets/twitter.svg" />
-  </a>
-  <a href="https://www.instagram.com/ayush_shankar">
-    <img align="left" alt="g2440 | Instagram" width="24px" src="https://github.com/G2440/g2440/blob/main/assets/instagram.svg" />
-  </a>
-  <a href="mailto:ayushshanker23@gmail.com">
-    <img align="left" alt="g2440 | Gmail" width="26px" src="https://github.com/G2440/g2440/blob/main/assets/gmail.svg" />
-  </a>
-  <a href="https://sourcerer.io/g2440">
-    <img align="left" alt="g2440 | Sourcerer" width="24px" src="https://avatars3.githubusercontent.com/u/29913589?s=200&v=4" />
+
+  <a href="mailto:gaurav2440@gmail.com">
+    <img align="left" alt="gauravnegi2440@gmail.com | Gmail" width="30px" src="https://github.com/G2440/g2440/blob/main/assets/gmail.svg" />
   </a>
 <br><br>
-<summary>:zap: <h3><b>GitHub Stats</b></h3></summary>
-
-  ![Ayush's github stats](https://github-readme-stats-vert-phi.vercel.app/api?username=g2440&show_icons=true&theme=synthwave&count_private=false)
-
-</details> -->
-<!--
-![](https://visitor-badge.glitch.me/badge?page_id=g2440.visitor-badge)
-![](https://komarev.com/ghpvc/?username=g2440&color=brightgreen)
--->
-<!-- <br /> -->
 
 
-<a href="https://g2440.github.io/"><h1>Gaurav Negi👨‍💻</h1></a>
-[![Twitter Badge](https://img.shields.io/badge/-@g2440-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/g2440)](https://twitter.com/g2440) [![Linkedin Badge](https://img.shields.io/badge/-g2440-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/g2440/)](https://www.linkedin.com/in/g2440/)
+
+## [Gaurav Negi👨‍💻](https://drive.google.com/file/d/1Z89rZ-qztYk-vzkeWOE6D-ZIAluqLnly/view?usp=sharing)
+[![Linkedin Badge](https://img.shields.io/badge/-gaurav2440-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gaurav2440/)](https://www.linkedin.com/in/gaurav2440/)
 [![GitHub Badge](https://img.shields.io/badge/-@g2440-%23181717?style=flat-square&logo=github)](https://github.com/g2440)
-[![Gmail Badge](https://img.shields.io/badge/-ayushshanker23@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ayushshanker23@gmail.com)](mailto:ayushshanker23@gmail.com)
-[![Website Badge](https://img.shields.io/website?color=0ab9e6&style=flat-square&up_message=g2440.github.io/&url=http%3A%2F%2Fg2440.github.io/%2F)](https://g2440.github.io/)
----
-![Peek 2020-07-09 15-53](https://github.com/G2440/g2440/blob/main/assets/Gitreadme.gif)
+[![Gmail Badge](https://img.shields.io/badge/-gauravnegi2440@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gauravnegi2440@gmail.com)](mailto:gauravnegi2440@gmail.com)
+
 <hr>
 <p>
- <img align="right" src="https://github.com/G2440/g2440/blob/main/assets/progGif.gif" width="310px alt="programmergif">
+ <img align="right" src="https://c.tenor.com/o6aj3W2I7rMAAAAC/dev.gif" width="310px alt="programmergif">
 </p>
 
 
 ## Hi there <img src="https://github.com/G2440/g2440/blob/main/assets/wave.gif" width="27px">
-I'm Ayush Shankar, currently an undergraduate student at [MSIT](https://msit.in/), pursuing bachelor's degree majoring in Information Technology. I'm passionate about backend and frontend technologies. I also love contributing to open source.
+I'm an Information Technology major from Maharaja Surajmal Institute of Technology with excellence in academics and holding a CGPA of 9.03 while being a quality full stack developer with experience in multiple development frameworks such as Nodejs, Django & PHP. A problem solver well versed in various programming languages such as C, C++, Python and JavaScript and possessing good knowledge of Data Structures, Algorithms, Object Oriented Programming, Operating system and familiar with various stages of SDLC and basics of system design. I have experience working in teams in hackathons as well as handling problems individually. I'm a skilled candidate on the look for an opportunity to gain some exposure and showcase my skills while learning new technologies.
 
 ### 🛠 Languages and Tools 
   <img height="30" src="https://github.com/G2440/g2440/blob/main/assets/js.png"> &nbsp; &nbsp;
   <img height="30" src="https://github.com/G2440/g2440/blob/main/assets/mongoDb.png"> &nbsp; &nbsp;
   <img height="30" src="https://github.com/G2440/g2440/blob/main/assets/node.svg"> &nbsp; &nbsp;
-  <img height="30" src="https://github.com/G2440/g2440/blob/main/assets/react.png"> &nbsp; &nbsp; 
-  <img height="30" src="https://github.com/G2440/g2440/blob/main/assets/gulp.png"> &nbsp; &nbsp;              
+  <img height="30" src="https://www.php.net/images/logos/new-php-logo.svg"> &nbsp; &nbsp; <img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/800px-Python-logo-notext.svg.png"> &nbsp; &nbsp;<img height="30" src="https://themeforest.img.customer.envatousercontent.com/files/180904265/djangopre.jpg?auto=compress%2Cformat&q=80&fit=crop&crop=top&max-h=8000&max-w=590&s=9625d406063207f9205a65eb7d1c6ff0"> &nbsp; &nbsp;<img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/800px-ISO_C%2B%2B_Logo.svg.png"> &nbsp; &nbsp;<img height="30" src="https://cdn.liveagent.com/app/uploads/2020/11/MySQL-Logo.png"> &nbsp; &nbsp;    
 
-   <h3>Some fun stats about my repos</h3>                                                                                               
-  <img align="left" src="https://github.com/G2440/g2440/blob/main/assets/sourcer.gif" width="50%"><br/><br/>
-  <h4 align="center">More stats <a href="https://sourcerer.io/g2440">here</a></h4>
 <br/>
