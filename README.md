@@ -1,9 +1,3 @@
-<img src="https://github.com/G2440/g2440/blob/main/assets/Gitreadme.gif">
-
-
-### Final Year Undergraduate student from  [Maharaja Surajmal Institute of Technology](https://www.msit.in/)
-
-
   <a href="https://www.linkedin.com/in/gaurav2440/">
     <img align="left" alt="g2440 | Linkedin" width="30px" src="https://github.com/G2440/g2440/blob/main/assets/linkedin.svg" />
   </a>
