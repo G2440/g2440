@@ -21,7 +21,8 @@
 
 
 ## Hi there <img src="https://github.com/G2440/g2440/blob/main/assets/wave.gif" width="27px">
-I'm an Information Technology major from Maharaja Surajmal Institute of Technology with excellence in academics and holding a CGPA of 9.03 while being a quality full stack developer with experience in multiple development frameworks such as Nodejs, Django & PHP. A problem solver well versed in various programming languages such as C, C++, Python and JavaScript and possessing good knowledge of Data Structures, Algorithms, Object Oriented Programming, Operating system and familiar with various stages of SDLC and basics of system design. I have experience working in teams in hackathons as well as handling problems individually. I'm a skilled candidate on the look for an opportunity to gain some exposure and showcase my skills while learning new technologies.
+Versatile software engineer with nearly 2 years of industry experience, dedicated to build systems that meet user needs and business objectives while demonstrating functionality, reliability, performance and creating user-friendly interfaces, ensuring maintainability and scalability. Completed payment gateway integrations, notifications delivery, subscription systems, event-driven features, security bug fixes and diverse development tasks.
+
 
 ### 🛠 Languages and Tools 
   <img height="30" src="https://github.com/G2440/g2440/blob/main/assets/js.png"> &nbsp; &nbsp;
